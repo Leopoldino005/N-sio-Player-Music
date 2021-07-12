@@ -1,2 +1,3 @@
 # N-sio-Player-Music
-Repositório com a programação de uma aplicativo tocador de .mp3 em Python
+## -Firjan SENAI - Curso Técnico em Desenvolvimento de Sistemas
+### Repositório com a programação de uma aplicativo tocador de .mp3 em Python
